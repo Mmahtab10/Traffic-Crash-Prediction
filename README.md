@@ -19,6 +19,6 @@ Download the Python notebook file "Traffic Crash Analysis" onto your local compu
 
 ### Current Contributors
 - Mahtab Khan
-- Kaitlin
+- Kaitlin Culligan
 - Girimer
 - MD Shaheriar Khan
