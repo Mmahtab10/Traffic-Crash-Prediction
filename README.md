@@ -1,11 +1,24 @@
 # Traffic-Crashes-Analysis
-This project is centered around a detailed examination of the publicly accessible traffic data for the city of Chicago. Our primary goal is to develop a predictive model capable of accurately determining the geolocation of traffic accidents based on comprehensive crash information. By analyzing patterns and correlating various incident details, we aim to pinpoint the precise coordinates of traffic occurrences within the city.
 
-Languages used: Python, Apache Spark
-Tools used: Databricks platform
+## Project Overview
+The "Traffic-Crashes-Analysis" project is dedicated to a comprehensive analysis of traffic crash data in Chicago. Our objective is to develop an advanced predictive model that can accurately forecast the geolocations of traffic accidents. This is achieved by analyzing patterns and correlating various data points from crash reports. Our model aims to enhance public safety by identifying high-risk areas and contributing to preventive measures.
 
-Contributing members:
-Mahtab Khan
-Kaitlin
-Girimer
-MD Shaheriar Khan
+## Data Source
+The traffic crash data utilized in this project is publicly available and can be accessed from the City of Chicago's official data portal. The dataset provides detailed information on each traffic incident, allowing for a thorough analysis.
+
+Dataset URL: [Traffic Crashes - Crashes](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if/about_data)
+
+## Technologies and Tools
+This project employs a blend of programming languages and technologies to effectively process and analyze the data:
+
+- **Languages:** Python, PySpark
+- **Technologies:** Databricks Platform, Apache Spark
+
+## Getting Started
+
+
+### Current Contributors
+- Mahtab Khan
+- Kaitlin
+- Girimer
+- MD Shaheriar Khan
