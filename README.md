@@ -1,4 +1,4 @@
-# Traffic Crashes Analysis
+# Traffic Crash Prediction
 
 ## Project Overview
 The "Traffic-Crashes-Analysis" project is dedicated to the analysis and prediction of traffic crash data in Chicago. Our objective is to develop a predictive model that can accurately forecast the geolocations of traffic accidents. This is achieved by analyzing patterns and correlating various data points from crash reports. Our model aims to enhance public safety by identifying high-risk areas and contributing to preventive measures.
